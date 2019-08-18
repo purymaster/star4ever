@@ -1,0 +1,7 @@
+.guide_tit {padding:8px 10px; color:#333; font-weight:bold; background:#ddd; font-size:16px; margin:20px 0 10px 0 !important; border-bottom:2px solid #333; border-top:2px solid #333;}
+.guide_tit:first-child {margin-top:10px;}
+.guide_link {padding:10px; border-bottom:1px solid #ddd; border-top:1px solid #ddd;}
+.guide_link a {display:inline-block; padding:5px 10px; color:#fff; background:#333;}
+.list_link a {display:inline-block; width:100px; line-height:38px; background:#5381e7; color:#fff; font-size:15px; font-weight:bold;}
+.list_link button {display:inline-block; width:100px; line-height:38px; background:#5381e7; color:#fff; font-size:15px; font-weight:bold; font-family:NanumGothic, "나눔고딕", Gulim, sans-serif;}
+
