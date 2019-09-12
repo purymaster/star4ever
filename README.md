@@ -10,11 +10,11 @@
 
 ## 사이트주소
 
-[사이트 바로가기](http://star4ever.com/){:target="_blank"}
+[사이트 바로가기](http://star4ever.com/)
 
 ## 코딩맵
 
-[코딩맵 바로가기](https://purymaster.github.io/star4ever/codingmap.html){:target="_blank"}
+[코딩맵 바로가기](https://purymaster.github.io/star4ever/codingmap.html)
 
 ## HTML 코드 작성 규칙
 
